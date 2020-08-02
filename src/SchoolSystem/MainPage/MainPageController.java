@@ -247,7 +247,7 @@ public class MainPageController implements Initializable
         // .get(5) language_mark || .get(6) math.mark || .get(7) grammar ||
         // .get(8) literature || .get(9) history || .get(10)  sports .get(11) programming
 
-        data.add("");
+        data.add(""); // please not modified if you not understand why empty.
         data.add("almafa123");
         data.add("10/C");
         data.add("Admin");
